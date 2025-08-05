@@ -95,7 +95,7 @@ http://localhost:5173
 
 ### **Documentation & Support**
 
-* For detailed technical documentation, please refer to the [**docs**](./docs/) directory.
+* For detailed technical documentation, please refer to the https://codepen.io/Khushal-Patil-the-scripter/full/RNWVOLv directory.
 * If you have any questions or require further assistance, feel free to contact the project maintainers.
 
 ---
@@ -103,3 +103,4 @@ http://localhost:5173
 **Thank you for contributing to reducing food waste with technology!**
 
 ---
+
